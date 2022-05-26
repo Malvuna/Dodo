@@ -1,0 +1,22 @@
+.menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 30px;
+}
+
+.menu_text {
+  display: flex;
+  justify-content: space-between;
+  column-gap: 24px;
+}
+
+.menu_text {
+    font-family: "Nunito-Regular";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #000000;
+  }
+

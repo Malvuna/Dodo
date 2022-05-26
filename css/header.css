@@ -1,0 +1,25 @@
+.head {
+  padding: 28px 0px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header_number_text {
+  font-family: "Nunito-Bold";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 25px;
+  color: #000000;
+}
+
+.header_call_text {
+  font-family: "Nunito-Regular";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  color: #999999;
+}
+
+

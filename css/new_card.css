@@ -1,0 +1,43 @@
+
+.card {
+  box-sizing: border-box;
+  height: 104px;
+  width: 250px;
+  left: 0px;
+  top: 0px;
+  border-radius: 10px;
+  background-color: #FFFFFF;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 14px 0 14px 18px;
+  column-gap: 22px;
+}
+
+.card p{
+  margin-bottom: 4px;
+}
+
+.img_block {
+  display: flex;
+  justify-content:space-between;
+  padding-bottom: 70px;
+}
+
+.headhead_new_card {
+  font-family: "Nunito-Regular";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+  color: #000000;
+}
+
+.text_new_card {
+  font-family: "Nunito-Bold";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+  color: #000000;
+}
