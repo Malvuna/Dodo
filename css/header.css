@@ -5,7 +5,7 @@
 }
 
 .header_number_text {
-  font-family: "Nunito-Bold";
+  font-family: "Nunito", sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 18px;
@@ -14,12 +14,10 @@
 }
 
 .header_call_text {
-  font-family: "Nunito-Regular";
+  font-family: "Nunito", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
   line-height: 20px;
   color: #999999;
 }
-
-

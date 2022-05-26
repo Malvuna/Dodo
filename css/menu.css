@@ -12,11 +12,10 @@
 }
 
 .menu_text {
-    font-family: "Nunito-Regular";
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 19px;
-    color: #000000;
-  }
-
+  font-family: "Nunito", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+  color: #000000;
+}
