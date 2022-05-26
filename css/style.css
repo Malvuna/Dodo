@@ -15,7 +15,7 @@ html {
   max-width: 1060px;
   box-sizing: content-box;
   margin: 0 auto;
-  background: rgb(230, 228, 228);
+  background: rgb(255, 255, 255);
 }
 
 @font-face {
@@ -41,7 +41,6 @@ html {
   font-size: 24px;
   line-height: 33px;
   color: #000000;
-  margin: 30px;
 }
 
 .card_head_text {
