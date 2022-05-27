@@ -29,7 +29,7 @@ html {
   color: #000000;
 }
 
-.button_orang {
+.button {
   width: 120px;
   height: 40px;
   border: 0;
@@ -38,7 +38,7 @@ html {
   cursor: pointer;
 }
 
-.button_orange_text {
+.button_text {
   font-family: 'Nunito', sans-serif;
   font-style: normal;
   font-weight: 600;
@@ -48,7 +48,7 @@ html {
   color: #ffffff;
 }
 
-.button_orang_light {
+.button_light {
   width: 120px;
   height: 40px;
   border: 0;
@@ -57,7 +57,7 @@ html {
   cursor: pointer;
 }
 
-.button_orange_light_text {
+.button_light_text {
   font-family: 'Nunito', sans-serif;
   font-style: normal;
   font-weight: 600;
