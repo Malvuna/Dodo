@@ -1,4 +1,4 @@
-.dessert {
+.drinks {
     display: grid;
     grid-template-columns: repeat(4, 250px);
     background-color: rgb(230, 213, 213);
@@ -6,21 +6,21 @@
     margin-bottom: 70px;
   }
   
-  .dessert > div {
+  .drinks > div {
     border: 1px solid green;
     background-color: rgb(227, 231, 227);
   }
   
-  .dessert_img {
+  .drinks_img {
     width: 220px;
     height: 220px;
     margin: 0 auto 5px;
   }
   
-  .dessert {
+  .drinks {
     transition: 1s; 
   }
   
-  .dessert_img:hover {
+  .drinks_img:hover {
     transform: scale(0.98);
   }
