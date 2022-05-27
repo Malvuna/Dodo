@@ -1,0 +1,26 @@
+.combo {
+    display: grid;
+    grid-template-columns: repeat(4, 250px);
+    background-color: rgb(230, 213, 213);
+    grid-gap: 60px 20px;
+    margin-bottom: 70px;
+  }
+  
+  .combo > div {
+    border: 1px solid green;
+    background-color: rgb(227, 231, 227);
+  }
+  
+  .combo_img {
+    width: 220px;
+    height: 220px;
+    margin: 0 auto 5px;
+  }
+  
+  .combo {
+    transition: 1s; 
+  }
+  
+  .combo_img:hover {
+    transform: scale(0.98);
+  }

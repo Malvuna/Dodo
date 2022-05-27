@@ -3,6 +3,10 @@
 @import url("./menu.css");
 @import url("./new_card.css");
 @import url("./pizza.css");
+@import url("./combo.css");
+@import url("./snacks.css");
+@import url("./dessert.css");
+
 
 html {
   scroll-behavior: smooth;
@@ -27,6 +31,44 @@ html {
   font-size: 24px;
   line-height: 33px;
   color: #000000;
+  margin-bottom: 40px;
+}
+
+.card_head_text {
+  font-family: "Nunito", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 27px;
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+.card_descript_text {
+  font-family: "Nunito", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+  color: #73798c;
+  margin-bottom: 11px;
+}
+
+.card_price_text {
+  font-family: "Nunito", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+  color: #000000;
+  margin-right: 46px;
+}
+
+.card_footer {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  margin-top: auto;
 }
 
 .button {
@@ -36,6 +78,7 @@ html {
   border-radius: 1000px;
   background: #f96900;
   cursor: pointer;
+  display: block;
 }
 
 .button_text {
