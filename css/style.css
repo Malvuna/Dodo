@@ -2,6 +2,7 @@
 @import url("./header.css");
 @import url("./menu.css");
 @import url("./new_card.css");
+@import url("./pizza.css");
 
 html {
   scroll-behavior: smooth;
@@ -25,34 +26,6 @@ html {
   font-weight: 700;
   font-size: 24px;
   line-height: 33px;
-  color: #000000;
-}
-
-.card_head_text {
-  font-family: 'Nunito', sans-serif;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 24px;
-    line-height: 33px;
-    color: #000000;
-  }
-}
-
-.card_descript_text {
-  font-family: 'Nunito', sans-serif;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 19px;
-  color: #73798c;
-}
-
-.card_price_text {
-  font-family: 'Nunito', sans-serif;
-  font-style: normal;
-  font-weight: 600;
-  font-size: 16px;
-  line-height: 22px;
   color: #000000;
 }
 

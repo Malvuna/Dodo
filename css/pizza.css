@@ -1,0 +1,51 @@
+.pizza {
+    display: grid;
+    grid-template-columns: 250px 250px 250px 250px;
+    grid-template-rows: 370px 370px;
+    background-color: antiquewhite;
+    grid-column: 20px;
+    grid-row: 60px;
+    padding: 0;
+}
+
+.pizza_img {
+height: 220px;
+width: 220px;
+margin-left: 15px;
+}
+
+.card_head_text {
+    font-family: 'Nunito', sans-serif;
+      font-style: normal;
+      font-weight: 700;
+      font-size: 24px;
+      line-height: 33px;
+      color: #000000;
+      margin-top: 5px;
+  }
+  
+  .card_descript_text {
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #73798c;
+    margin-top: 10px;
+  }
+  
+  .card_price_text {
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    color: #000000;
+  }
+
+  .card_footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+  }
