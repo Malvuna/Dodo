@@ -24,3 +24,9 @@
   .combo_img:hover {
     transform: scale(0.98);
   }
+
+  .card_combo {
+    display: flex ;
+    flex-direction: column;
+    align-items: stretch; 
+   }

@@ -24,3 +24,9 @@
   .drinks_img:hover {
     transform: scale(0.98);
   }
+
+  .card_drinks {
+    display: flex ;
+    flex-direction: column;
+    align-items: stretch; 
+   }
