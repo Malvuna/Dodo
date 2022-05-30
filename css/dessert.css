@@ -1,14 +1,8 @@
 .dessert {
     display: grid;
     grid-template-columns: repeat(4, 250px);
-    background-color: rgb(230, 213, 213);
     grid-gap: 60px 20px;
     margin-bottom: 70px;
-  }
-  
-  .dessert > div {
-    border: 1px solid green;
-    background-color: rgb(227, 231, 227);
   }
   
   .dessert_img {
