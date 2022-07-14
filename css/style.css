@@ -15,7 +15,7 @@ html {
 }
 
 body div {
-  border: 1px solid green;
+  /* border: 1px solid green; */
 }
 
 
@@ -27,7 +27,7 @@ body div {
   max-width: 1060px;
   box-sizing: content-box;
   margin: 0 auto;
-  background: rgb(255, 255, 255);
+  
 }
 
 

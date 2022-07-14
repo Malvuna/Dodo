@@ -1,7 +1,11 @@
+footer {
+  background-color: #464c55;
+}
+
 .footer {
   display: flex;
   justify-content: space-between;
-  background-color: #464c55;
+  padding-top: 60px;
 }
 
 .text_footer {
@@ -28,4 +32,98 @@ li {
   font-size: 18px;
   line-height: 26px;
   color: #ffffff;
+}
+
+.footer_number {
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 26px;
+  text-align: right;
+  color: #ffffff;
+  padding-top: 29px;
+}
+
+.footer_call {
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  text-align: right;
+  color: #ffffff;
+  opacity: 0.5;
+}
+
+.footer_email {
+  padding-top: 26px;
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  text-align: right;
+  color: #ffffff;
+  opacity: 0.9;
+}
+
+.footer_img {
+  display: flex;
+}
+
+.footer_partTwo {
+  display: flex;
+  margin-top: 93px;
+}
+
+.footer_partTwo_left {
+  width: 30%;
+  margin-right: 156px;
+}
+
+.footer_money {
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 26px;
+  color: #ffffff;
+}
+
+.footer_country {
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #ffffff;
+  opacity: 0.7;
+}
+
+.footer_line {
+  opacity: 0.2;
+  border: 1px solid #ffffff;
+  margin-top: 46px;
+  margin-bottom: 46px;
+}
+
+.footer_partThree{
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 40px;
+}
+
+.footer_partThree_text {
+  display: flex;
+  justify-content: space-between;
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #ffffff;
+  opacity: 0.7;
 }
